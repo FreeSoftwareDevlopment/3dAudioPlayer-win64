@@ -1,0 +1,1 @@
+SFML-2.5.1 not only includes SFML, we copied https://github.com/Sharkbyteprojects/consoleLoadingBar-win binaries also into this folder
